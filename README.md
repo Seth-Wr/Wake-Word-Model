@@ -3,6 +3,8 @@ A production-ready native audio trigger built with TensorFlow Lite.
 
 This project features a custom-engineered pipeline for real-time keyword spotting. It includes a specialized ETL process for synthesizing "dirty" training data, a CNN-based classification model, and an optimized TFLite conversion for low-latency mobile inference.
 
+Demo
+https://www.youtube.com/watch?v=aabRp43wcIk
 
 📂 Project Structure & Workflow
 The engine is built across four core stages, each documented in a dedicated notebook:
