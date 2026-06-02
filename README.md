@@ -1,5 +1,5 @@
 🎙️ Sheila: On-Device Wake-Word Engine
-A production-ready native audio trigger built with TensorFlow Lite.
+A audio trigger built with TensorFlow Lite.
 
 This project features a custom-engineered pipeline for real-time keyword spotting. It includes a specialized ETL process for synthesizing "dirty" training data, a CNN-based classification model, and an optimized TFLite conversion for low-latency mobile inference.
 
